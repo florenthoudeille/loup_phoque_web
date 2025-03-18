@@ -8,30 +8,7 @@ namespace Loup_Phoque_web.Controllers;
 
 public class HomeController : Controller
 {
-      // Simule une base de données de services
-    private static List<string> Services = new List<string>
-    {
-        "SEO",
-        "Marketing Digital",
-        "Publicité en ligne",
-        "Branding",
-        "Gestion des réseaux sociaux",
-        "Email Marketing"
-    };
-
-    public IActionResult Search(string query)
-    {
-        if (string.IsNullOrEmpty(query))
-        {
-            return View(new List<string>()); // Si rien n'est recherché, renvoie une liste vide
-        }
-
-        var results = Services
-            .Where(s => s.ToLower().Contains(query.ToLower()))
-            .ToList();
-
-        return View(results);
-    }
+    
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2TnMXbsv3Ad6wLHaw8+kjxlL385rg0wQBNkYHtrdcr4=",
+  "Hash": "KkXMJ6oqboKe0RZdTACVHDcedFYHgIV+FmcNu0UAvn4=",
   "Source": "Loup-Phoque_web",
   "BasePath": "_content/Loup-Phoque_web",
   "Mode": "Default",
@@ -1277,12 +1277,12 @@
       "OriginalItemSpec": "C:\\Users\\walliou\\Loup-Phoque_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-bv58zq34mw.gz",
+      "Identity": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-4dmvofzgb4.gz",
       "SourceId": "Loup-Phoque_web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Loup-Phoque_web",
-      "RelativePath": "css/site#[.{fingerprint=bv58zq34mw}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=4dmvofzgb4}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "C:\\Users\\walliou\\Loup-Phoque_web\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "abp4y4obub",
-      "Integrity": "JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY=",
+      "Fingerprint": "tqvwsh91r4",
+      "Integrity": "S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\walliou\\Loup-Phoque_web\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bv58zq34mw",
-      "Integrity": "SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=",
+      "Fingerprint": "4dmvofzgb4",
+      "Integrity": "CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.bv58zq34mw.css",
-      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-bv58zq34mw.gz",
+      "Route": "css/site.4dmvofzgb4.css",
+      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-4dmvofzgb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002386634845"
+          "Quality": "0.001808318264"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "552"
         },
         {
           "Name": "ETag",
-          "Value": "\"JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY=\""
+          "Value": "\"S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\""
+          "Value": "W/\"CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bv58zq34mw"
+          "Value": "4dmvofzgb4"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="
+          "Value": "sha256-CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4="
         }
       ]
     },
     {
-      "Route": "css/site.bv58zq34mw.css",
+      "Route": "css/site.4dmvofzgb4.css",
       "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "1303"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\""
+          "Value": "\"CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bv58zq34mw"
+          "Value": "4dmvofzgb4"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="
+          "Value": "sha256-CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4="
         }
       ]
     },
     {
-      "Route": "css/site.bv58zq34mw.css.gz",
-      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-bv58zq34mw.gz",
+      "Route": "css/site.4dmvofzgb4.css.gz",
+      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-4dmvofzgb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "552"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY=\""
+          "Value": "\"S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bv58zq34mw"
+          "Value": "4dmvofzgb4"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY="
+          "Value": "sha256-S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-bv58zq34mw.gz",
+      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-4dmvofzgb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002386634845"
+          "Quality": "0.001808318264"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "552"
         },
         {
           "Name": "ETag",
-          "Value": "\"JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY=\""
+          "Value": "\"S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\""
+          "Value": "W/\"CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="
+          "Value": "sha256-CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "1303"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\""
+          "Value": "\"CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="
+          "Value": "sha256-CJnEQs0YmYuy6cbfKnS1cyNiHhmxx1Qj35qQPZmAgy4="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-bv58zq34mw.gz",
+      "AssetFile": "C:\\Users\\walliou\\Loup-Phoque_web\\obj\\Debug\\net9.0\\compressed\\xmj61gjwbg-4dmvofzgb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "552"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY=\""
+          "Value": "\"S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 10:13:18 GMT"
+          "Value": "Tue, 18 Mar 2025 13:23:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JotVHtJH2NUrPEWjnNqBnxWZM4TAvWdC0ouCQYvMwEY="
+          "Value": "sha256-S0clUD53Pt/7OF06QBZixEn2AYiiOCou+07LCBpJc3A="
         }
       ]
     },
