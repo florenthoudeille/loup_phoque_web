@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Loup-Phoque_web.props" />
+</Project>
