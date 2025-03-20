@@ -4,10 +4,12 @@ using Loup_Phoque_web.Models;
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace Loup_Phoque_web.Controllers;
 
 public class HomeController : Controller
 {
+
       // Simule une base de données de services
     private static List<string> Services = new List<string>
     {

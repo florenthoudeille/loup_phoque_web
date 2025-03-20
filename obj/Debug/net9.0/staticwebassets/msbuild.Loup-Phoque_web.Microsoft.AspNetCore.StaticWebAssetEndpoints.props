@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/Loup-Phoque_web/css/site.bv58zq34mw.css">
+    <StaticWebAssetEndpoint Include="_content/Loup-Phoque_web/css/site.7z8mv40lo1.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bv58zq34mw"},{"Name":"integrity","Value":"sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="},{"Name":"label","Value":"_content/Loup-Phoque_web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 10:13:18 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7z8mv40lo1"},{"Name":"integrity","Value":"sha256-DdojPDaXdq3VFpAM3\u002Bg\u002BarAw4JhhgH2q31TDGqg6\u002BBM="},{"Name":"label","Value":"_content/Loup-Phoque_web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DdojPDaXdq3VFpAM3\u002Bg\u002BarAw4JhhgH2q31TDGqg6\u002BBM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 11:03:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Loup-Phoque_web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SVX4UFU41aibhnyaNMFOvnr4y5Wrte38mfT4SqBNVcc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 10:13:18 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DdojPDaXdq3VFpAM3\u002Bg\u002BarAw4JhhgH2q31TDGqg6\u002BBM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DdojPDaXdq3VFpAM3\u002Bg\u002BarAw4JhhgH2q31TDGqg6\u002BBM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 11:03:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Loup-Phoque_web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

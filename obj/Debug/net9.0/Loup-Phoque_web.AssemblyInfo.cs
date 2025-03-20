@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loup-Phoque_web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c68986bb8a64c61081f7dd3191d87e404436ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loup-Phoque_web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loup-Phoque_web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

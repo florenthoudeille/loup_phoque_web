@@ -94,4 +94,5 @@ C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\refint\Loup-Phoque_web.dll
 C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\Loup-Phoque_web.pdb
 C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\Loup-Phoque_web.genruntimeconfig.cache
 C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\ref\Loup-Phoque_web.dll
-C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\compressed\xmj61gjwbg-bv58zq34mw.gz
+C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\Loup-Phoque_web.sourcelink.json
+C:\Users\walliou\Loup-Phoque_web\obj\Debug\net9.0\compressed\xmj61gjwbg-7z8mv40lo1.gz

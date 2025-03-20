@@ -4,3 +4,10 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>Page des produits</p>
+ <!-- Fais une liste de produit -->
+<ul>
+    @foreach (var produit in ViewBag.Produits)
+    {
+        <li>@produit.Nom</li>
+    }
+</ul>
